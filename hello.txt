@@ -4,4 +4,4 @@ hello world! hello git!3
 hello world! hello git!4
 hello world! hello git!5
 hello world! hello git!6
-hello world! hello git!7
+hello world! hello git!7 master text
